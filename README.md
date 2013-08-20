@@ -2,11 +2,11 @@
 
 ## Usage
 
-  fmt.Println(colour.Red("Hello") + colour.Blue("World"))
+    fmt.Println(colour.Red("Hello") + colour.Blue("World"))
 
-  if err != nil {
-    fmt.Printf(colour.Red("Error: %q\n"), err)
-  }
+    if err != nil {
+      fmt.Printf(colour.Red("Error: %q\n"), err)
+    }
 
 ## Available colours
 
